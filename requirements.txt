@@ -1,0 +1,9 @@
+transformers
+peft
+datasets
+torch
+gradio
+requests
+selenium
+webdriver_manager
+bs4
